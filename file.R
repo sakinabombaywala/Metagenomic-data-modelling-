@@ -1,4 +1,4 @@
-# Generating RF based ML models for predicting total ARG abundance, ARG tyoe/sybtype count and distribution pattern 
+# Generating RF based ML models for predicting total ARG abundance, ARG type/sybtype count and distribution pattern 
 
 #1.Data preprocessing 
 dataset = read.csv('phylum_ML.csv')
